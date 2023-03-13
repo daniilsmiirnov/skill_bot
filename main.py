@@ -1,6 +1,5 @@
 import telebot
-import requests
-import json
+
 from values import *
 from classes import Converter, APIException
 bot = telebot.TeleBot(token)
